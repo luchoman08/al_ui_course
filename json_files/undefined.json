@@ -1,0 +1,39 @@
+[{
+  "queries": [
+    
+    
+
+    
+    {
+    "luis": {
+      "description": "Search movies",
+      "query_arguments": [
+        {
+          "name": "page",
+          "description": "Page number for long results",
+          "type": "integer",
+          "required": false
+        },
+        {
+          "name" : "query",
+          "description": "Pass a text query to search",
+          "type": "string",
+          "required": true
+        },
+        {
+          "name": "include_adult",
+          "description": "Always true in browser incognite mode",
+          "type": "boolean",
+          "required": false
+        }
+        ],
+      "type": "GET",
+      "end_point": "/search/movies",
+      "response_example" : {"page":2,"total_results":24,"total_pages":2,"results":[{"vote_count":8,"id":161097,"video":false,"vote_average":6.4,"title":"Marvel Studios: Building a Cinematic Universe","popularity":2.727625,"poster_path":"\/81ZnVzmts1UGAjuGhr7XwKSpJks.jpg","original_language":"en","original_title":"Marvel Studios: Building a Cinematic Universe","genre_ids":[99],"backdrop_path":"\/yeKT2gNFxHGbTT3Htj5PE9IerGJ.jpg","adult":false,"overview":"Feature-length documentary about the rise of Marvel Studios and their films leading up to, and including, The Avengers.","release_date":"2012-09-25"},{"vote_count":0,"id":377364,"video":false,"vote_average":0,"title":"Lesbian Avengers Eat Fire Too","popularity":1.000024,"poster_path":null,"original_language":"en","original_title":"Lesbian Avengers Eat Fire Too","genre_ids":[99],"backdrop_path":null,"adult":false,"overview":"An insider's look at the first year of an activist group known as the Lesbian Avengers.","release_date":"1993-01-01"},{"vote_count":0,"id":149640,"video":false,"vote_average":0,"title":"The Awaken Punch","popularity":1.000157,"poster_path":"\/mn4dNJrjq6x9wdpaEo8AsbkD97T.jpg","original_language":"cn","original_title":"Shi po tian jian","genre_ids":[],"backdrop_path":null,"adult":false,"overview":"A man takes on a gang that has been terrorizing a small village.","release_date":"1973-05-23"},{"vote_count":2,"id":187745,"video":false,"vote_average":8.5,"title":"Hercules vs. the Giant Warriors","popularity":1.13838,"poster_path":"\/6nig2vZCa1mlZDyOD7l8bxy7sP5.jpg","original_language":"it","original_title":"Il trionfo di Ercole","genre_ids":[12],"backdrop_path":null,"adult":false,"overview":"Hercules, having agreed to restore justice to Mycenae, confronts evil Prince Myles. The villain is invested with power over giant bronze warriors by his mother Pasiphaë, a sorceress in Hades. Myles assassinates the king and abducts his cousin, Queen Ate, through whom he plans to inherit the throne. Although Zeus temporarily removes Hercules' strength for killing Eurystheus, an innocent man framed by Myles, the god restores his powers. Hercules then saves Ate and destroys Myles, Pasiphaë, and the giant warriors.","release_date":"1964-01-30"}]}
+      
+    }
+      
+    }
+    ]
+}
+]
