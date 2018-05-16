@@ -1,0 +1,181 @@
+{
+  "id": 2,
+  "translations": [
+    {
+      "iso_3166_1": "DE",
+      "iso_639_1": "de",
+      "name": "Deutsch",
+      "english_name": "German",
+      "data": {
+        "title": "Ariel - Abgebrannt in Helsinki",
+        "overview": "Lappland Ende der 80er Jahre: Ein Bergwerk wird gesprengt und somit verlieren Taisto (Turo Pajala) und sein Vater ihren Job. Sein Vater sieht keine Hoffnung mehr und erschießt sich, kurz vorher gibt er Taisto noch die Schlüssel seines Wagens. Mit dem macht Taisto sich von nun an durch Finnland auf der Suche nach Arbeit auf und landet schließlich in Helsinki. Dort verliebt er sich und landet später im Gefängnis. Er bricht aus und versucht nochmal neu anzufangen...",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "NL",
+      "iso_639_1": "nl",
+      "name": "Nederlands",
+      "english_name": "Dutch",
+      "data": {
+        "title": "",
+        "overview": "Deze film gaat over Taisto Kasurinen, een Finse kolenmijnwerker wiens vader net zelfmoord heeft gepleegd, en die wordt ingerekend door de politie vanwege een misdaad die hij niet heeft gepleegd. Tijdens zijn detentie droomt hij ervan om uit de gevangenis te vluchten en het land te verlaten. Hij weet te ontsnappen, maar de dingen gaan niet helemaal zoals gepland...",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "RU",
+      "iso_639_1": "ru",
+      "name": "Pусский",
+      "english_name": "Russian",
+      "data": {
+        "title": "Ариэль",
+        "overview": "С героем фильма шахтером Таисто случается серия неудач…",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "IL",
+      "iso_639_1": "he",
+      "name": "עִבְרִית",
+      "english_name": "Hebrew",
+      "data": {
+        "title": "אריאל",
+        "overview": "הסרט מספר את סיפורו של טאיסטו קאסורין, כורה פחם פיני שאביו היתאבד ושהופלל בפשע שאותו לא ביצע. בכלא הוא חולם על לעזוב את המדינה ולבנות חיים חדשים. הוא בורח מהכלא, אך הדברים לא הולכים כפי שתיכנן...",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "PT",
+      "iso_639_1": "pt",
+      "name": "Português",
+      "english_name": "Portuguese",
+      "data": {
+        "title": "",
+        "overview": "",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "ES",
+      "iso_639_1": "es",
+      "name": "Español",
+      "english_name": "Spanish",
+      "data": {
+        "title": "",
+        "overview": "Premiada por la Sociedad de Críticos de Estados Unidos en 1990 como la mejor película extranjera, este filme es una exploración de la realidad finlandesa: desempleo, corrupción y vigilancia policial...",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "CZ",
+      "iso_639_1": "cs",
+      "name": "Český",
+      "english_name": "Czech",
+      "data": {
+        "title": "",
+        "overview": "",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "IT",
+      "iso_639_1": "it",
+      "name": "Italiano",
+      "english_name": "Italian",
+      "data": {
+        "title": "",
+        "overview": "",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "US",
+      "iso_639_1": "en",
+      "name": "English",
+      "english_name": "English",
+      "data": {
+        "title": "",
+        "overview": "Taisto Kasurinen is a Finnish coal miner whose father has just committed suicide and who is framed for a crime he did not commit. In jail, he starts to dream about leaving the country and starting a new life. He escapes from prison but things don't go as planned...",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "FR",
+      "iso_639_1": "fr",
+      "name": "Français",
+      "english_name": "French",
+      "data": {
+        "title": "",
+        "overview": "Salla, petite ville minière de la Laponie. Taisto Kasurinen, mineur, hérite d'une \"belle américaine\" après le suicide de son propriétaire. Il retire toute ses économies de la banque et part à Helsinki. La capitale l'accueille froidement : il se fait voler son argent et se retrouve en prison. Cependant il a eu le temps de rencontrer Irmeli, jeune femme débordée, et son petit garçon. Ils réussiront a faire évader Taisto. Poursuivis par la police, ils sont bien décidés a tout faire pour s'en sortir.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "TR",
+      "iso_639_1": "tr",
+      "name": "Türkçe",
+      "english_name": "Turkish",
+      "data": {
+        "title": "",
+        "overview": "Film kısa süre önce babası intihar eden ve kendisi de işlemediği bir cinayet yüzünden suçlanan Finlandiyalı maden işçisi Taisto Kasurinen'in hikayesini anlatır. Hapisteyken ülkeyi terk etmek ve yeni bir hayata başlamakla ilgili hayaller kurmaya başlar. Sonunda hapisten kaçar ama işler planladığı gibi gitmez...",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "PL",
+      "iso_639_1": "pl",
+      "name": "Polski",
+      "english_name": "Polish",
+      "data": {
+        "title": "",
+        "overview": "",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "FI",
+      "iso_639_1": "fi",
+      "name": "suomi",
+      "english_name": "Finnish",
+      "data": {
+        "title": "",
+        "overview": "Elokuva kertoo rautakaivosmies Taisto Kasurisesta, jonka isä tekee itsemurhan. Taisto tottelee isänsä ajatuksia omasta tulevaisuudestaan ja suuntaa matkansa etelään päin. Elokuvassa kuvataan ihmisen päättäväisyyttä ja sen vaikutusta yksilön tarinaan kaurismäkeläisinä kauniina kuvina, maailmassa vailla myötätuntoa.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "CN",
+      "iso_639_1": "zh",
+      "name": "普通话",
+      "english_name": "Mandarin",
+      "data": {
+        "title": "升空号",
+        "overview": "矿工卡苏里南（Turo Pajala 饰）工作的矿场停业，他只得驾驶别人送赠的敞篷凯迪拉克老车远赴赫尔辛基另谋出路。路上遭遇的一场抢劫让他身边只剩凯迪拉克和一台收音机，卡苏里南找到了码头力工的临时工作，但正职却迟迟无法落实。卡苏里南结识了在屠宰厂工作身带一个男孩的女工伊勒梅勒，两人的生活很快合二为一。但不久卡苏里南因向劫匪寻仇而入狱，室友米柯南精心策划了越狱步骤，在伊勒梅勒的协助下，卡苏里南重获自由。本片获1989年莫斯科国际电影节最佳男主角奖、国际影评人费比西奖，1991年全美影评人协会最佳外语片奖。是导演郭立斯马基（Aki Kaurismäki）无产阶级三部曲的第二部。",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "DK",
+      "iso_639_1": "da",
+      "name": "Dansk",
+      "english_name": "Danish",
+      "data": {
+        "title": "Ariel",
+        "overview": "Taisto har ikke meget held i sprøjten. Først bliver han fyret, og bagefter bliver han frarøvet sine sidste penge. Da han senere møder den ene af røverne og vil gøre regnskabet op, ender han selv i fængsel for overfald. Heldigvis har han også mødt Irmeli og sammen med Taistos cellekammeret begynder parret at planlægge flugten.",
+        "homepage": ""
+      }
+    },
+    {
+      "iso_3166_1": "SE",
+      "iso_639_1": "sv",
+      "name": "svenska",
+      "english_name": "Swedish",
+      "data": {
+        "title": "",
+        "overview": "Taisto har det inte lätt. Först blir han av med jobbet när gruvan läggs ner. När han åker in till stan för att hitta ett nytt jobb blir han rånad. I ett försök att få ihop lite pengar försöker han sedan sälja sin bil, men då springer han på en av männen som rånade honom. Mannen drar kniv men Taisto lyckas avväpna rånaren. När polisen kommer till platsen lägger de ihop ett och ett - och kommer fram till att det var Taisto som försökte råna mannen. Taisto hamnar i en cell tillsammans med Mikkonen som sitter inne för mord. Han påstår att han är oskyldig precis som Taisto. Tillsammans börjar de planera sin flykt.",
+        "homepage": ""
+      }
+    }
+  ]
+}
