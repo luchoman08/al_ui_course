@@ -1,5 +1,6 @@
 [{
   "queries": [
+
    {
          "daniel": {
             "description": "Search the lists in what movie belong",
@@ -242,31 +243,32 @@
          }
 
       },
+
       {
             "harold":{
                "description":"Discover movies by different types of data like average rating, number of votes, genres, etc",
                "query_arguments":[
                   {
                      "name":"page",
-                     "description":"Page number for results",
+                     "description":"Specify the page of results to query.",
                      "type":"integer",
                      "required":"false"
                   },
                   {
                      "name":"language",
-                     "description":"Response language",
+                     "description":"Specify a language to query translatable fields with.",
                      "type":"string",
                      "required":"false"
                   },
                   {
                      "name":"sort_by",
-                     "description":"Get movies sort by some argument, eg popularity.desc",
+                     "description":"Get movies sort by some argument, eg popularity.desc, choose from one of the many available sort options.",
                      "type":"string",
                      "required":"false"
                   },
                   {
                      "name":"include_adult",
-                     "description":"Get movies sort by some argument, eg popularity.desc",
+                     "description":"A filter and include or exclude adult movies.",
                      "type":"boolean",
                      "required":"false"
                   }
